@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE manifesto SYSTEM "file:/home/d3/Documents/UM/4/PRI/manifesto/manifesto.dtd">
+<manifesto>
+    <meta>
+        <id>TP5</id>
+        <título>Criação de servidor para Arquivo de Marchas</título>
+        <dinício>14 de Outubro de 2018</dinício>
+        <dfim>21 de Outubro de 2018</dfim>
+        <supervisor>
+            <nome>José Carlos Ramalho</nome>
+            <email>jcr@di.uminho.pt</email>
+            <website>www.di.uminho.pt/~jcr</website>
+        </supervisor>
+    </meta>
+    <equipe>
+        <elemento>
+            <id>A77048</id>
+            <nome>Eduardo Gil Ribeiro da Rocha</nome>
+            <email>a77048@alunos.uminho.pt</email>
+            <foto path="Imagens/foto.png"></foto>
+        </elemento>
+    </equipe>
+    <resumo>
+        <para>Este trabalho envolve a criação de um servidor Node.js capaz de redirecionar utilizadores para 
+        as diversas páginas do Arquivo de Marchas.</para>
+        <para>Parte do desafio deste trabalho foi o fato de as obras estarem dispostas apenas em formato .json, o 
+        que significa que foi preciso desenvolver um script capaz de extrair informações relevantes para que 
+        possa ser feito um ficheiro .json com as informações necessárias para o índice.</para>
+        <para>Para criar as páginas HTML utilizamos a ferramenta Pug, disponibilizada através da plataforma npm, 
+        que trata de converter os ficheiros .json em ficheiros .html. Utilizamos também o ficheiro .css 
+        fornecido pelo site w3schools.</para>
+    </resumo>
+    <resultados>
+        <resultado path="https://github.com/egrocha/PRI2018-A77048-TP5">Repositório do trabalho.</resultado>
+    </resultados>
+</manifesto>

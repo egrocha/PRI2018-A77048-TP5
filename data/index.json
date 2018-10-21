@@ -1,0 +1,151 @@
+{
+"ficheiros": {
+
+"Rapsódia": [
+{"_id": "m27", "titulo": "Canções da Tradição"},
+{"_id": "m47", "titulo": "Bailar em Nespereira"},
+{"_id": "m93", "titulo": "Português Cantado"},
+{"_id": "m84", "titulo": "Slavonic Rhapsody nº3"},
+{"_id": "m78", "titulo": "Volta a Portugal"},
+{"_id": "m41", "titulo": "Sonhos de Portugal"},
+{"_id": "m24", "titulo": "Vamos à Romaria"},
+{"_id": "m25", "titulo": "Português Suave"},
+{"_id": "m80", "titulo": "Lusitanidades"}
+],
+
+"Coral": [
+{"_id": "m77", "titulo": "St Thomas Coral"}
+],
+
+"Abertura/Concerto": [
+{"_id": "m111", "titulo": "Três Oceanos"},
+{"_id": "m102", "titulo": "Uma Flor Sobre o Túmulo"},
+{"_id": "m29", "titulo": "Ross Roy"},
+{"_id": "m131", "titulo": "Alvamar Overture"},
+{"_id": "m66", "titulo": "La Storia"},
+{"_id": "m123", "titulo": "La Forza Del Destino"},
+{"_id": "m49", "titulo": "Tannhauser Ouverture"},
+{"_id": "m20", "titulo": "Cassiopeia"},
+{"_id": "m31", "titulo": "Highlights from 'Chess'"},
+{"_id": "m22", "titulo": "Marcha Eslava"},
+{"_id": "m32", "titulo": "Cavalaria Ligeira"},
+{"_id": "m23", "titulo": "Fate of the Gods"},
+{"_id": "m60", "titulo": "Poeta e Aldeão"},
+{"_id": "m42", "titulo": "Pilatus: Mountain of Dragons"},
+{"_id": "m53", "titulo": "Fantasma da Ópera"},
+{"_id": "m26", "titulo": "Cycles and Myths"}
+],
+
+"Marcha de Concerto/Pasodoble": [
+{"_id": "m36", "titulo": "Hispânico"},
+{"_id": "m120", "titulo": "Música i Poble"},
+{"_id": "m64", "titulo": "Horizonte da Razão"},
+{"_id": "m85", "titulo": "Una Noche en Granada"},
+{"_id": "m58", "titulo": "Gibraltar"},
+{"_id": "m86", "titulo": "Andres Contrabandista"},
+{"_id": "m87", "titulo": "Marta Agustín"},
+{"_id": "m5", "titulo": "Holiday in Rio"},
+{"_id": "m117", "titulo": "El Barbanha"},
+{"_id": "m97", "titulo": "Marchas de Lisboa"},
+{"_id": "m88", "titulo": "Enrique López"},
+{"_id": "m21", "titulo": "António Nogueira"},
+{"_id": "m89", "titulo": "Libertadores"},
+{"_id": "m50", "titulo": "Harmonique"},
+{"_id": "m61", "titulo": "Pérola 59"},
+{"_id": "m43", "titulo": "Marcha Radetzky"},
+{"_id": "m44", "titulo": "Vila Franca"}
+],
+
+"Marcha de Procissão": [
+{"_id": "m48", "titulo": "Transfiguração"},
+{"_id": "m105", "titulo": "São Sebastião"},
+{"_id": "m3", "titulo": "El Angel Blanco"},
+{"_id": "m10", "titulo": "Senhora Nossa"},
+{"_id": "m69", "titulo": "Concha"},
+{"_id": "m11", "titulo": "Invocação a Deus"},
+{"_id": "m6", "titulo": "São Martinho"},
+{"_id": "m12", "titulo": "São Bento"},
+{"_id": "m7", "titulo": "Avé Maria"},
+{"_id": "m13", "titulo": "Casa de S. Paulo"},
+{"_id": "m8", "titulo": "Corpo Místico"},
+{"_id": "m9", "titulo": "Súplica"},
+{"_id": "m51", "titulo": "Crucifixus"},
+{"_id": "m70", "titulo": "Hosanna in excelsis"},
+{"_id": "m71", "titulo": "Jerusalen"},
+{"_id": "m110", "titulo": "El Angel Blanco"}
+],
+
+"Ligeiro/Fantasia": [
+{"_id": "m81", "titulo": "Freitas"},
+{"_id": "m54", "titulo": "Jigs: Duas Danças Tradicionais Irlandesas"},
+{"_id": "m45", "titulo": "Momentos Menores"},
+{"_id": "m55", "titulo": "La Tuba Bregosa"},
+{"_id": "m46", "titulo": "Santana"},
+{"_id": "m28", "titulo": "Abba Mia"},
+{"_id": "m121", "titulo": "Paisagem Ribatejana"},
+{"_id": "m112", "titulo": "Le Melre Blanc"},
+{"_id": "m92", "titulo": "Goddess Of Fire"},
+{"_id": "m65", "titulo": "Latin Pop Special"},
+{"_id": "m113", "titulo": "A Tribute To Harry James"},
+{"_id": "m93", "titulo": "Led Zeppelin On Tour"},
+{"_id": "m57", "titulo": "ABBA Gold"},
+{"_id": "m114", "titulo": "The Witch And The Saint"},
+{"_id": "m68", "titulo": "Macarena"},
+{"_id": "m59", "titulo": "Moment for Morricone"},
+{"_id": "m116", "titulo": "Francisco Magalhães"},
+{"_id": "m96", "titulo": "Innuendo"},
+{"_id": "m79", "titulo": "Piratas das Caraíbas: Suite Sinfónica"},
+{"_id": "m118", "titulo": "El Camino Real"},
+{"_id": "m98", "titulo": "Fiesta de las Trompetas"},
+{"_id": "m40", "titulo": "Xutos Medley"},
+{"_id": "m119", "titulo": "Roque em Português"},
+{"_id": "m99", "titulo": "Selecção Quinta do Bill"},
+{"_id": "m100", "titulo": "Hispania"},
+{"_id": "m62", "titulo": "Immer Kleiner"},
+{"_id": "m35", "titulo": "Bands Around the World"},
+{"_id": "m101", "titulo": "Juana de Arco"}
+],
+
+"Obras Natalícias": [
+{"_id": "m91", "titulo": "The Magic Of Christmas"},
+{"_id": "m130", "titulo": "You Raise Me Up"},
+{"_id": "m122", "titulo": "Suite de Natal"},
+{"_id": "m124", "titulo": "Aeternum"},
+{"_id": "m125", "titulo": "Va Pensiero"},
+{"_id": "m126", "titulo": "The Spirit Of Christmas"},
+{"_id": "m127", "titulo": "Grand March"},
+{"_id": "m129", "titulo": "Hallelujah"}
+],
+
+"Marcha de Desfile": [
+{"_id": "m72", "titulo": "S. João de Braga"},
+{"_id": "m63", "titulo": "Filhos da Nação"},
+{"_id": "m18", "titulo": "12 de Abril"},
+{"_id": "m82", "titulo": "Vale de Cambra - 100 anos"},
+{"_id": "m73", "titulo": "A Portuguesa"},
+{"_id": "m19", "titulo": "Tarântula"},
+{"_id": "m56", "titulo": "Cidade Esposende"},
+{"_id": "m1", "titulo": "Homenagem a J. Serra"},
+{"_id": "m104", "titulo": "Pela Lei e Pela Grei"},
+{"_id": "m2", "titulo": "Armindo Alves"},
+{"_id": "m76", "titulo": "Beira Mar"},
+{"_id": "m67", "titulo": "Zé Pedro"},
+{"_id": "m3", "titulo": "1989"},
+{"_id": "m115", "titulo": "Presidente António Conde"},
+{"_id": "m106", "titulo": "Industrial"},
+{"_id": "m4", "titulo": "Manuel Joaquim ALmeida"},
+{"_id": "m107", "titulo": "Infantes do 6"},
+{"_id": "m108", "titulo": "Bodas de Diamante"},
+{"_id": "m109", "titulo": "Despedida"},
+{"_id": "m128", "titulo": "Hino de Vila Verde"},
+{"_id": "m14", "titulo": "Filarmonia"},
+{"_id": "m33", "titulo": "Paquito Chocolatero"},
+{"_id": "m15", "titulo": "Caçadores do I"},
+{"_id": "m52", "titulo": "Aguas do Botaréu"},
+{"_id": "m34", "titulo": "Xabia"},
+{"_id": "m16", "titulo": "Homenagem ao Dr Manuel Vaz"},
+{"_id": "m17", "titulo": "Homenagem a Vila Verde"}
+]
+
+}
+}

@@ -1,0 +1,29 @@
+extends layout
+
+block corpo
+    .w3-container
+        .w3-card-4
+            header.w3-container.w3-light-grey
+                h1= marcha.titulo
+                h3= marcha.tipo
+                h3= "Compositor: " + marcha.compositor
+                p Partituras Disponíveis:
+                .w3-container
+                    table.w3-table.w3-all
+                        tr
+                            th Instrumento
+                            th Afinação
+                            th Voz
+                            th Clave 
+                            th Doc
+                        each instrumento in marcha.instrumentos
+                            tr
+                                td= instrumento.nome
+                                td= instrumento.partitura.afinacao
+                                td= instrumento.partitura.voz
+                                td= instrumento.partitura.clave
+                                td= instrumento.partitura.path
+                footer.w3-container.w3-light-grey
+                    p 
+                        a(href="http://localhost:5001/index")
+                            | Voltar à página principal

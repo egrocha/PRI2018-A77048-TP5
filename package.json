@@ -1,0 +1,14 @@
+{
+  "name": "tp5",
+  "version": "1.0.0",
+  "description": "Arquivo de Marchas",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "egrocha",
+  "license": "ISC",
+  "dependencies": {
+    "pug": "^2.0.3"
+  }
+}
